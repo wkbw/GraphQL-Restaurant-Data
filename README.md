@@ -26,5 +26,5 @@ Upload of index.js, package.json, package-lock.json, and graphql_queries text fi
 
 
 ## License Information
-[This Graphql-Restaurant-Data project is licensed under the MIT License](https://github.com/wkbw/GraphQL-Restaurant-Data#:~:text=Commit%20time-,LICENSE,-Initial%20commit)
+[This Graphql-Restaurant-Data project is licensed under the MIT License](https://github.com/wkbw/GraphQL-Restaurant-Datablob/main/LICENSE)
 
